@@ -1,0 +1,479 @@
+.head {
+  /* Oasis. */
+
+  position: absolute;
+  width: 46px;
+  height: 19px;
+  left: 136px;
+  top: 75px;
+
+  font-family: "Gilroy";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.top {
+  /* “ */
+
+  position: absolute;
+  width: 28px;
+  height: 117px;
+  left: 82px;
+  top: 200px;
+
+  font-family: "Gayathri";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 117px;
+  display: flex;
+  align-items: center;
+  color: #00daf7;
+}
+
+.para2 {
+  /* Already have an account? Sign In */
+
+  position: absolute;
+  width: 282px;
+  height: 28px;
+  left: 1077px;
+  top: 70px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+
+.frameone {
+  background-color: #1565d8e5;
+  position: absolute;
+  width: 666px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(
+      0deg,
+      rgba(21, 101, 216, 0.9),
+      rgba(21, 101, 216, 0.9)
+    ),
+    url(.jpg);
+}
+.para {
+  position: absolute;
+  width: 473px;
+  height: 190px;
+  left: 82px;
+  top: 370px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 38px;
+  /* or 190% */
+
+  display: flex;
+  align-items: center;
+  color: #ffff;
+}
+
+.para3 {
+  /* Join Us! */
+
+  position: absolute;
+  width: 118px;
+  height: 36px;
+  left: 793px;
+  top: 233px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.para4 {
+  /* To begin this journey, tell us what type of account you’d be opening. */
+
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 279px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.para5 {
+  /* Individual */
+
+  position: absolute;
+  width: 74px;
+  height: 19px;
+  left: 901px;
+  top: 396px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.para6 {
+  /* Personal account to manage all you activities. */
+
+  position: absolute;
+  width: 264px;
+  height: 34px;
+  left: 901px;
+  top: 419px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.para7 {
+  /* Business */
+
+  position: absolute;
+  width: 69px;
+  height: 19px;
+  left: 901px;
+  top: 532px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.para8 {
+  /* Own or belong to a company, this is for you. */
+
+  position: absolute;
+  width: 239px;
+  height: 34px;
+  left: 901px;
+  top: 555px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+a {
+  color: #1565d8;
+}
+
+.vi {
+  /* Vincent Obi */
+
+  position: absolute;
+  width: 101px;
+  height: 22px;
+  left: 82px;
+  top: 582px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.a {
+  /* Back */
+
+  position: absolute;
+  width: 39px;
+  height: 19px;
+  left: 748px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.b {
+  position: absolute;
+  width: 106px;
+  height: 19px;
+  left: 1243px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+
+.c {
+  /* Register Individual Account! */
+
+  position: absolute;
+  width: 415px;
+  height: 36px;
+  left: 793px;
+  top: 193px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.d {
+  /* For the purpose of industry regulation, your details are required. */
+
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 239px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+
+.vh-100 {
+  padding-left: 900px;
+  padding-top: 500px;
+}
+
+.form {
+  padding-left: 800px;
+  padding-top: 400px;
+}
+
+.button {
+  background-color: #1565d8;
+  color: #ffff;
+}
+
+.step {
+  /* STEP 01/03 */
+
+  position: absolute;
+  width: 79px;
+  height: 17px;
+  left: 1270px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #bdbdbd;
+}
+
+.f-p {
+  position: absolute;
+  height: 15px;
+  left: 65.42%;
+  right: 24.24%;
+  top: calc(50% - 15px / 2 + 314.5px);
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #8692a6;
+}
+
+/* final message/optional page */
+
+/* vectors and icons  */
+
+/* Vector 1 */
+
+#img1 {
+  position: absolute;
+  width: 33.5px;
+  height: 33px;
+  left: 517.5px;
+  top: 610px;
+}
+
+#img2 {
+  /* Vector (Stroke) */
+
+  position: absolute;
+  left: 26.65%;
+  right: 26.65%;
+  top: 59%;
+  bottom: 32.29%;
+  background-color: green;
+}
+
+#icon {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 99.99px;
+  top: 87px;
+
+  background: #c4c4c4;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+#box {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 108px;
+  left: 793px;
+  top: 370px;
+
+  background: #f5f9ff;
+  border: 1px solid #1565d8;
+  box-shadow: 0px 4px 14px 1px rgba(0, 0, 0, 0.04);
+  border-radius: 6px;
+}
+
+#box2 {
+  position: absolute;
+  width: 426px;
+  height: 108px;
+  left: 793px;
+  top: 506px;
+
+  background: #ffffff;
+  box-shadow: 0px 2px 14px 1px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
+}
+
+#polygon {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 821px;
+  top: 398px;
+}
+#polygon2 {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 821px;
+  top: 534px;
+}
+
+#suitcase {
+  position: absolute;
+  left: 40.81%;
+  right: 4.17%;
+  top: 57.33%;
+  bottom: 8.33%;
+}
+
+#person {
+  position: absolute;
+  left: 40.4%;
+  right: 36.17%;
+  top: 41.3%;
+  bottom: 50%;
+}
